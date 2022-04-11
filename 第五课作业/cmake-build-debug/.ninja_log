@@ -1,0 +1,7 @@
+# ninja log v5
+0	751	1648862860222144143	CMakeFiles/untitled.dir/A.cpp.o	1c6361697bf49e1c
+1146	1262	1648869055295601533	untitled	51217cc26e3db70
+0	725	1648862496339959372	CMakeFiles/untitled.dir/C.cpp.o	fd43431ed72528fe
+2	753	1648864935879309431	CMakeFiles/untitled.dir/B.cpp.o	7171a9a0f55a8a94
+0	1144	1648869055167308549	CMakeFiles/untitled.dir/E.cpp.o	4ba45a973c46ec56
+0	708	1648864228502947898	CMakeFiles/untitled.dir/D.cpp.o	a3b96251fdb7509f
